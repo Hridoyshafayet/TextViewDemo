@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewDemo</string>
+    <string name="data"> Wikipedia is a multilingual, web-based, free encyclopedia that is based on a model of openly editable content. It is the largest and most popular general reference work on the Internet, and is one of the most popular websites by Alexa rank.</string>
+</resources>
